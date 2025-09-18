@@ -94,24 +94,25 @@ PERSONALITY: 📐 Analytical • Detail-Oriented • Curious
 ### 💻 Tech Stack
 
 ```python
-class Developer:
+class DataAnalyst:
     def __init__(self):
-        self.languages = ["Python", "C++", "Java", "Go", "JavaScript", "TypeScript"]
-        self.interests = ["Research", "Startups", "Finance", "Innovations"]
+        self.languages = ["SQL", "Python", "R", "DAX", "Excel"]
+        self.interests = ["Data Storytelling", "Visualization", "Business Insights", "Automation"]
         self.expertise = {
-            "🧠 ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "Transformers"],
-            "🤖 robotics": ["ROS2", "Gazebo", "MoveIt", "OpenRAVE", "PCL", "SLAM"],
-            "🌐 web_dev": ["React", "Next.js", "Node.js", "NestJS", "TailwindCSS"],
-            "🥽 xr_dev": ["Unreal Engine 5", "OpenXR", "WebXR", "A-Frame"],
-            "🛠️ infrastructure": ["Docker", "AWS", "GCP", "Git", "Linux"]
+            "📊 business_intelligence": ["Power BI", "Tableau", "Excel Dashboards"],
+            "🗄️ databases": ["MySQL", "PostgreSQL", "MongoDB"],
+            "🐍 python_libs": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            "📈 statistics": ["Hypothesis Testing", "Regression", "Forecasting"],
+            "⚙️ tools": ["ETL", "Jupyter Notebook", "Git", "Google Analytics"]
         }
-        self.approach = ["Strategic Architecture", "Elegant Solutions", "Research-Driven"]
+        self.approach = ["Accuracy", "Clarity", "Actionable Insights"]
 
     def current_focus(self):
-        return "Building at the intersection of AI, Robotics, and Reserch Infra"
+        return "Transforming raw data into dashboards and business intelligence reports"
 
     def philosophy(self):
-        return "Minimalist code. Maximum impact. Strategic thinking."
+        return "Data is only valuable when it drives smarter decisions."
+
 ```
 
 ### 📈 GitHub Analytics
