@@ -116,29 +116,6 @@ class DataAnalyst:
 ```
 
 
-### 🎵 Music & Support
-
-<div align="center">
-
-<table cellpadding="18" cellspacing="0">
-  <tr>
-    <td align="center" width="50%">
-      <h4>🎧 Currently Listening:</h4>
-      <a href="https://open.spotify.com/user/31kcq3r4acb4sr4xghbkh2p5bjru">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kcq3r4acb4sr4xghbkh2p5bjru&unique=true" alt="Spotify" style="border-radius: 12px; border: 1px solid #374151;">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h4>☕ Support My Work:</h4>
-      <a href="https://ko-fi.com/steeltroops">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support on Ko-fi" style="border-radius: 12px;">
-      </a>
-      <br><small><em>Help keep the creative process flowing ✨</em></small>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ### � Connect & Collaborate
 
