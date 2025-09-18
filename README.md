@@ -20,7 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6B46C1&center=false&vCenter=false&random=false&width=550&lines=Founder+%E2%80%A2+NeuraForge+%7C+Strategic+Builder;AI+Research+%E2%80%A2+Elegant+Solutions;Minimalist+Approach+%E2%80%A2+Maximum+Impact;Building+Thoughtful+Technology;INTJ+%E2%80%A2+Strategic+%E2%80%A2+Focused)](https://git.io/typing-svg)
 
-**`Founder - NeuraForge | Strategic & Elegent Development`**
+**`Data Analyst | Strategic & Elegent Development and Analysis`**
 
 
 </td>
