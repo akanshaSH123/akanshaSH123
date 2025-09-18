@@ -35,14 +35,15 @@
     <td width="55%" align="left" valign="top">
 
 ```yaml
-STATUS: ⚡ Active & Building
-ROLE: 🚀 Founder • Developer • Researcher
-MISSION: 🎯 Crafting elegant technology solutions
-EXPERTISE: ["AI/ML", "Robotics", "Web", "XR", "Quantum"]
-LANGUAGES: ["English", "Hindi", "中文", "日本語"]
-ACHIEVEMENTS: 🏆 8x Hackathon Winner
-CURRENT: 🔮 NeuraForge Decentralized Research Platform
-PERSONALITY: 🐈‍⬛ INTJ • Strategic • Minimalist
+STATUS: 📊 Analyzing & Delivering Insights
+ROLE: 📈 Data Analyst • BI Developer • Storyteller
+MISSION: 🎯 Turning raw data into actionable business decisions
+EXPERTISE: ["Data Cleaning", "SQL", "Python", "Power BI", "Tableau", "Excel"]
+LANGUAGES: ["English", "Hindi"]
+ACHIEVEMENTS: 🏆 Built interactive dashboards & predictive models
+CURRENT: 🔍 Exploring datasets & creating business intelligence reports
+PERSONALITY: 📐 Analytical • Detail-Oriented • Curious
+
 ```
 
 </td>
