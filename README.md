@@ -115,27 +115,6 @@ class DataAnalyst:
 
 ```
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-<table cellpadding="12" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steeltroops-ai&theme=github_dark" height="180" style="border-radius: 12px; border: 1px solid #6B46C1;" />
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ### 🎵 Music & Support
 
