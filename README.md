@@ -163,28 +163,28 @@ class Developer:
 
 <div align="center">
 
-<a href="https://bento.me/steeltroops">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-374151?style=flat&logo=firefox&logoColor=white" height="25" />
 </a>
-<a href="https://github.com/steeltroops-ai">
+<a href="[https://github.com/steeltroops-ai](https://github.com/akanshaSH123/akanshaSH123)">
 <img src="https://img.shields.io/badge/GitHub-6B46C1?style=flat&logo=github&logoColor=white" height="25" />
 </a>
-<a href="https://twitter.com/steeltroops_ai">
+<a href="">
 <img src="https://img.shields.io/badge/Twitter-0F766E?style=flat&logo=twitter&logoColor=white" height="25" />
 </a>
-<a href="https://www.linkedin.com/in/steeltroops-ai">
+<a href="https://www.linkedin.com/in/akanshasharma09/">
 <img src="https://img.shields.io/badge/LinkedIn-4B5563?style=flat&logo=linkedin&logoColor=white" height="25" />
 </a>
-<a href="https://medium.com/@steeltroops">
+<a href="">
 <img src="https://img.shields.io/badge/Medium-374151?style=flat&logo=medium&logoColor=white" height="25" />
 </a>
-<a href="https://discord.com/users/949339963776974892">
+<a href="">
 <img src="https://img.shields.io/badge/Discord-6B46C1?style=flat&logo=discord&logoColor=white" height="25" />
 </a>
-<a href="https://anilist.co/user/steeltroops/animelist">
+<a href="">
 <img src="https://img.shields.io/badge/AniList-0F766E?style=flat&logo=anilist&logoColor=white" height="25" />
 </a>
-<a href="https://ko-fi.com/steeltroops">
+<a href="">
 <img src="https://img.shields.io/badge/Ko--fi-7F1D1D?style=flat&logo=ko-fi&logoColor=white" height="25" />
 </a>
 
@@ -205,7 +205,7 @@ class Developer:
 
 <br>
 
-<a href="https://anilist.co/user/steeltroops/animelist">
+<a href="">
   <img src="./eghha9ij72881.webp" alt="Aesthetic Collection" width="100%" style="max-width: 800px; border-radius: 15px; border: 2px solid #6B46C1; opacity: 0.92;">
 </a>
 
