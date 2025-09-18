@@ -57,39 +57,39 @@ PERSONALITY: 📐 Analytical • Detail-Oriented • Curious
 
 <table width="100%" cellpadding="28" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td width="50%" align="left" valign="top" style="border-right: 2px solid #6B46C1;">
+    <td width="50%" align="left" valign="top" style="border-right: 2px solid #2563EB;">
 
-**🚀 NeuraForge**
+**📊 Business Intelligence**
 
-- Building decentralized research platform
-- Strategic technology development
-- Leading efficient development processes
+- Building dashboards (Power BI, Tableau, Excel)  
+- Monitoring KPIs & performance metrics  
+- Data storytelling for business decisions  
 
-**🤖 Robotics & AI**
+**🛠 Data Analysis**
 
-- Autonomous navigation systems
-- Sensor fusion & control algorithms
-- Human-robot interaction design
+- SQL queries & database management  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Data cleaning, preprocessing & automation  
 
     </td>
     <td width="50%" align="left" valign="top" style="padding-left: 28px;">
 
-**🧠 Research & Innovation**
+**🔍 Research & Insights**
 
-- Robotics Development
-- Distributed machine learning systems
-- Computer vision applications
+- Market trend & customer behavior analysis  
+- Forecasting & predictive modeling  
+- Turning raw datasets into actionable insights  
 
 **🌐 Community & Growth**
 
-- Contributing to meaningful projects
-- Building elegant developer tools
-- Strategic mentoring & knowledge sharing
+- Sharing knowledge through projects  
+- Contributing to open-source analytics  
+- Continuous learning & upskilling  
 
       </td>
-
     </tr>
   </table>
+
 
 ### 💻 Tech Stack
 
